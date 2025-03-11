@@ -104,4 +104,5 @@
 .cube {
     animation: rotateCube 6s infinite linear;
     transform-style: preserve-3d;
+    -webkit-animation: rotateCube 20s infinite linear;
 }
